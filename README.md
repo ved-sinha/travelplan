@@ -5,3 +5,5 @@ This is a Graph visualizer which depicts the shortest path finding algorithms us
 
 Single Source Shortest Path Algorithm Used for visualization-:
 Dijkastras Algorithm
+
+![](Demo.png)
