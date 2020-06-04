@@ -1,0 +1,15 @@
+{
+  "name": "travelpath",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practice.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://ved-sinha.github.io/travelplan",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
